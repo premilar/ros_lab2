@@ -1,0 +1,38 @@
+commit ac1517ab891b1322e30f27d11aff53fe7a5854ab
+Author: premila <premila@mit.edu>
+Date:   Sat Feb 9 16:59:50 2019 -0500
+
+    Add existing file
+
+commit b12d56b6ef7c60b64849fb0afce2354cb04ebcd0
+Author: premila <premila@mit.edu>
+Date:   Sat Feb 9 16:55:48 2019 -0500
+
+    Add existing files
+
+commit 2cf8500469757e1023925f94faa6be9b88b174b8
+Author: premila <premila@mit.edu>
+Date:   Sat Feb 9 16:22:41 2019 -0500
+
+    Add existing file
+
+commit 7f0c390afb7750c7637d323d22ce3abb297ffe37
+Merge: d05fcf3 56f1613
+Author: premila <premila@mit.edu>
+Date:   Sat Feb 9 15:01:20 2019 -0500
+
+    Merge pull request #1 from premila/premila-patch-1
+    
+    First Change to Readme
+
+commit 56f1613696ea330e8445841f2801fccf744cadad
+Author: premila <premila@mit.edu>
+Date:   Sat Feb 9 14:40:04 2019 -0500
+
+    First Change to Readme
+
+commit d05fcf3cbec0bde59c7914b35b92efd49b6e4ff7
+Author: premila <premila@mit.edu>
+Date:   Sat Feb 9 14:23:48 2019 -0500
+
+    Initial commit
